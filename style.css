@@ -33,14 +33,20 @@ body {
 
 .container {
     border: 2px solid #ddd;
-    padding: 100px;
-    width: 700px;
+    padding: 10px;
+    width: auto;
+    height: 200px;
 }
 
 #output1 {
     width: fit-content;
     background-color: #282828;
-    padding: 5px;
-    margin-bottom: 1em;
+    padding: 2px;
+    margin-bottom: 1px;
+    margin-top: auto;
     overflow-wrap: anywhere;
+}
+
+#primeNumberInputs {
+    padding: 5px;
 }
