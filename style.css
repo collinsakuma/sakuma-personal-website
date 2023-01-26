@@ -30,3 +30,18 @@ body {
     background-color: #ddd;
     color: black;
 }
+
+.container {
+    border: 2px solid #ddd;
+    padding: 100px;
+    width: 700px;
+}
+
+#output1 {
+    width: -moz-fit-content;
+    width: fit-content;
+    background-color: #282828;
+    padding: 5px;
+    margin-bottom: 1em;
+    overflow-wrap: anywhere;
+}
