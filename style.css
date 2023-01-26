@@ -10,7 +10,7 @@ body {
 
 .imageKoala {
     width: 400px;
-    length: 600px;
+    height: 600px;
 }
 
 .topnav {
@@ -38,7 +38,6 @@ body {
 }
 
 #output1 {
-    width: -moz-fit-content;
     width: fit-content;
     background-color: #282828;
     padding: 5px;
