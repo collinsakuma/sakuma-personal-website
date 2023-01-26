@@ -34,8 +34,9 @@ body {
 .container {
     border: 2px solid #ddd;
     padding: 10px;
-    width: auto;
+    width: 80%;
     height: 200px;
+    align-self: center;
 }
 
 #output1 {
@@ -45,8 +46,4 @@ body {
     margin-bottom: 1px;
     margin-top: auto;
     overflow-wrap: anywhere;
-}
-
-#primeNumberInputs {
-    padding: 5px;
 }
